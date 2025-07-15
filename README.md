@@ -1,9 +1,11 @@
-### Hi there, I'm qianxun 👋
+**Welcome to qianxun Zone**
 
-<pre>
-    Keep Reading, Keep Coding, Keep Learning!
-                                                -- 一个想躺平的小开发
-</pre>
+Here is some personal information about me:
+
+- 🔭 I'm Chinese and currently working in Zhengzhou.
+- 📖 I'm currently learning && using React.js/Next.js...
+- 🌱 Ask me about any question about my repos or directly give me a issue/pr~
+- 📫 How to reach me: lkwavestian@gmail.com.
 
 **About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=lkwavestian.lkwavestian" align="center" alt="visitors">
 
